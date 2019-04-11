@@ -1,2 +1,3 @@
 # siteTeste
 Site de teste
+Testando comandos do git...
